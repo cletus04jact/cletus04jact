@@ -1,3 +1,4 @@
+<img src="https://spectrum.ieee.org/media-library/an-animation-showing-a-conceptual-representation-of-a-generative-ai-network.gif?id=51461227&width=1200&height=900" style="transform: rotate(90deg);">
 <h1 align="center">Hi 👋, I'm Cletus Sylphia P</h1>
 <h3 align="center">Exploring AI’s limitless potential with curiosity and care 🔬🧠. Designing tomorrow’s smart technologies today 🛠️⚡.</h3>
 
