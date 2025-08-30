@@ -1,70 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Cletus Sylphia P</h1>
+<h3 align="center">Exploring AI’s limitless potential with curiosity and care 🔬🧠. Designing tomorrow’s smart technologies today 🛠️⚡.</h3>
 
-<!--
-**cletus04jact/cletus04jact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cletus04jact&label=Profile%20views&color=0e75b6&style=flat" alt="cletus04jact" /> </p>
+<img align="right" alt="Coding" width="400" src="https://msandbu.org/wp-content/uploads/2024/06/image-17.png">
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Job AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Cletus Sylphia P GitHub Profile
+- 🌱 I’m currently learning **AGI,Agentic AI,DSA**
 
-[![GitHub followers](https://img.shields.io/github/followers/cletus?style=social)](https://github.com/cletus04jact)
-[![GitHub stars](https://img.shields.io/github/stars/cletus/rail_maded?style=social)](https://github.com/cletus04jact)
-[![GitHub last commit](https://img.shields.io/github/last-commit/cletus/personalized_agent)](https://github.com/cletus04jact)
+- 👨‍💻 All of my projects are available at [cletus.justsee.live](cletus.justsee.live)
 
-## Hello World! 👋
-Welcome to my GitHub profile! I am Cletus Sylphia P, a passionate developer with a keen interest in AI, agents, and chatbots. Let's dive into my world of coding and exploration!
+- 💬 Ask me about **AI, Data Pipelines, Data Vitualization**
 
-```javascript
-const cletus = {
-  pronouns: "He" | "Him",
-  code: ["Python", "JavaScript", "TypeScript", "Java"],
-  askMeAbout: ["AI", "Agents", "Chatbots"],
-  technologies: {
-    backEnd: {
-      python: ["Django", "Flask"],
-    },
-    frontEnd: {
-      js: ["React", "Vue"],
-    },
-    devOps: ["Docker"],
-    databases: ["MySQL", "MongoDB"],
-  },
-  currentFocus: "Exploring new applications of AI in real-world scenarios",
-  funFact: "Coding is not just a hobby for me, it's a way of life!",
-};
-```
+- 📫 How to reach me **cletusjact@gmail.com**
 
-## 🔧 Skills & Tools
-- Python, JavaScript, TypeScript, Java
-- Django, Flask, React, Vue
-- MySQL, MongoDB, Docker
+- ⚡ Fun fact **Your keyboard has a longest word you can type with one row: “Typewriter.” Coincidence or design? ⌨️📝**
 
-## 🚀 My Projects
-- [**Rail_Maded**](https://github.com/cletus04jact/rail_maded): A project utilizing Python, PowerShell, and TypeScript to revolutionize railway management.
-- [**AI Agents**](https://github.com/cletus04jact/ai_agents): Cutting-edge AI agents designed for efficient problem-solving.
-- [**Personalized Agent**](https://github.com/cletus04jact/personalized_agent): An adaptive chatbot tailored to individual user needs.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/cletus-sylphia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cletus-sylphia" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/cletus04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cletus04" height="30" width="40" /></a>
+</p>
 
-## 📊 GitHub Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=cletus04jact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cletus04jact)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=cletus04jact)](https://github.com/cletus04jact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cletus04jact&show_icons=true&locale=en" alt="cletus04jact" /></p>
 
-## 🌟 Get in Touch
-- LinkedIn: [Cletus Sylphia P](https://www.linkedin.com/in/cletus/)
-- Twitter: [@cletus226](https://twitter.com/cletus226)
-
-## 🎉 Let's Connect & Collaborate
-I'm always open to exciting opportunities, collaborations, and innovative projects. Feel free to reach out and let's create something amazing together! 🚀
-
-Thank you for visiting my GitHub profile! ✨ Happy coding! 😄
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cletus04jact&" alt="cletus04jact" /></p>
